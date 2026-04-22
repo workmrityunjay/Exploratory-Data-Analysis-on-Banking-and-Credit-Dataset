@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-on-Banking-and-Credit-Dataset
+This capstone project performs Exploratory Data Analysis (EDA) on a banking and credit dataset from PaisaBazaar. It analyzes customer demographics, income, loans, credit behavior, and credit scores using Python libraries such as Pandas, NumPy, and Matplotlib to extract insights and visualize patterns.
